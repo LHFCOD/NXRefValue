@@ -1,0 +1,46 @@
+创建时间：2016-10-17 11:24:43
+从数据库取出样本错误：ORA-00904: "V0": 标识符无效
+ORA-00904: "V0": 标识符无效
+SQL语句：select V1,V0,V9,V152 from tb_nx_his_run
+参数名字:3号高压加热器A进口给水温度
+
+从数据库取出样本错误：ORA-00904: "V0": 标识符无效
+ORA-00904: "V0": 标识符无效
+SQL语句：select V2,V0,V9,V152 from tb_nx_his_run
+参数名字:3号高压加热器B进汽压力
+
+从数据库取出样本错误：ORA-00904: "V0": 标识符无效
+ORA-00904: "V0": 标识符无效
+SQL语句：select V3,V0,V9,V152 from tb_nx_his_run
+参数名字:3号高压加热器B疏水温度
+
+从数据库取出样本错误：ORA-00904: "V0": 标识符无效
+ORA-00904: "V0": 标识符无效
+SQL语句：select V5,V0,V9,V152 from tb_nx_his_run
+参数名字:5号低压加热器疏水温度
+
+从数据库取出样本错误：ORA-00904: "V0": 标识符无效
+ORA-00904: "V0": 标识符无效
+SQL语句：select V7,V0,V9,V152 from tb_nx_his_run
+参数名字:5号机给水流量
+
+从数据库取出样本错误：ORA-00904: "V0": 标识符无效
+ORA-00904: "V0": 标识符无效
+SQL语句：select V10,V0,V9,V152 from tb_nx_his_run
+参数名字:八段抽汽压力B
+
+从数据库取出样本错误：ORA-00904: "V0": 标识符无效
+ORA-00904: "V0": 标识符无效
+SQL语句：select V151,V0,V9,V152 from tb_nx_his_run
+参数名字:空预器B出口烟温
+
+从数据库取出样本错误：ORA-00904: "V0": 标识符无效
+ORA-00904: "V0": 标识符无效
+SQL语句：select V12,V0,V9,V152 from tb_nx_his_run
+参数名字:除氧器水温
+
+从数据库取出样本错误：ORA-00904: "V0": 标识符无效
+ORA-00904: "V0": 标识符无效
+SQL语句：select V13,V0,V9,V152 from tb_nx_his_run
+参数名字:除氧器压力
+
